@@ -31,7 +31,7 @@ It provides insights into **revenue, orders, pizza categories, sizes, and sales 
 - Data Visualization  
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](https://github.com/rudra1256/PIZZA-SALES-POWER-BI-/blob/main/PIZZA%20SALES%201.png)
 
 ## 👨‍💻 Author
 **Rudra Chavda**
